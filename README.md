@@ -1,6 +1,6 @@
 # Mukeka di Rato
 
-Nuvem de palavras da banda mais podre do Brasil, porém da cidade mais linda do mundo: Vila Velha/ES.
+Nuvem de palavras da banda mais podre do Brasil, porém da cidade mais linda do mundo (Vila Velha/ES).
 
 ### Script
 
@@ -12,5 +12,4 @@ Nuvem de palavras da banda mais podre do Brasil, porém da cidade mais linda do 
 
 ### Software
 
-R, version, 4
-
+R, 4.1.0 version, under IDE RStudio
