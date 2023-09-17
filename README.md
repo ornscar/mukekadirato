@@ -14,4 +14,4 @@ Nuvem de palavras da banda mais podre do Brasil, que fala mais de Deus do que do
 
 R, 4.1.0 version, under IDE RStudio
 
-<p align="center"><img src="mukeka.jpg" width="650" height="400" /></p>
+<p align="center"><img src="mukeka.jpg" width="550" height="500" /></p>
