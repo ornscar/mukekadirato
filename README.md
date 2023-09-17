@@ -4,7 +4,7 @@ Nuvem de palavras da banda mais podre do Brasil, que fala mais de Deus do que do
 
 ### Script
 
-`scrip_mukeka.R`
+`script_mukeka.R`
 
 ### Resultado
 
