@@ -18,8 +18,6 @@ usethis::edit_r_environ(scope = "project")
 
 api_key <- Sys.getenv("API_VAGALUME")
 
-api_key <- "2df54e4a83ed3641a2b1e9ca6be82f43"
-
 
 # artista -----------------------------------------------------------------
 
